@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Empirical-Bayes-inspired residual learning for sparse monthly milk-yield forecasting"
+message: "If you use this workflow, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: "Hosseini Ghaffari"
+    given-names: "Morteza"
+version: "1.0.0"
+date-released: "2026-07-01"
+license: "MIT"
+repository-code: "https://github.com/REPLACE-WITH-YOUR-USERNAME/milk-yield-residual-learning"
+keywords:
+  - dairy science
+  - milk yield
+  - lactation curve
+  - residual learning
+  - empirical Bayes
+  - prediction
